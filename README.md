@@ -31,9 +31,9 @@ Clone the project
 
 5. Upload the directory file TakeBreak
 
-6. Go to extensions
+6. Go to extensions dropdown.
 
-7. Pin the extensions
+7. Pin the TakeBreak extension.
 
 Now you are all set to use this chrome extensions. 🚀
 
